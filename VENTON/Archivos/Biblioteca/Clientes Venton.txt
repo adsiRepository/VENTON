@@ -1,0 +1,126 @@
+
+	 	 	 	 	 	 	 VENTON 
+	 	 	 	 	 	 Tu Tienda Digital
+
+	 	 	 Santiago de Cali, s·bado 27 de septiembre de 2014
+
+
+
+                            Cod:
+                            	 	1
+                             -----
+
+                            Nombre:
+                            	 	Perros La Calle Ancha
+                             -----
+
+                            Nip:
+                            	 	31284488
+                             -----
+
+                            Direccion:
+                            	 	calle 34 24a02
+                             -----
+
+                            Ciudad
+                            	 	Cali
+                             -----
+
+                            Telefono:
+                            	 	 4382528
+                             -----
+
+                            Email:
+                            	 	teresita@gmail.com
+                             -----
+
+                            Fecha:
+                            	 	2014-09-01
+                             -----
+
+                            Obs:
+                            	 	venta de perros, hamburguesas, gaseosas; m√∫sica, buen ambiente, rica comida, excelente atenci√≥n.
+                             -----
+
+                            Sistema Pago:
+                            	 	Credito
+                             -----
+
+                            Cuenta:
+                            	 	77-2358-254
+                             -----
+
+                            Contacto:
+                            	 	Miguel Angel Gonz√°lez
+                             -----
+
+                            Telefono
+                            	 	3148377177
+                             -----
+
+                            Parentesco
+                            	 	Esposo
+                             -----
+	-------------------------------------------------------------
+
+
+                            Cod:
+                            	 	2
+                             -----
+
+                            Nombre:
+                            	 	Miguel Eduardo Gonzalez
+                             -----
+
+                            Nip:
+                            	 	1107057722
+                             -----
+
+                            Direccion:
+                            	 	Cll 40 15-61
+                             -----
+
+                            Ciudad
+                            	 	Cali
+                             -----
+
+                            Telefono:
+                            	 	 8888888-3183693535
+                             -----
+
+                            Email:
+                            	 	miguelgonz@hotmail.com
+                             -----
+
+                            Fecha:
+                            	 	2014-09-24
+                             -----
+
+                            Obs:
+                            	 	Estudiante SENA
+                             -----
+
+                            Sistema Pago:
+                            	 	Contado
+                             -----
+
+                            Cuenta:
+                            	 	7782582-5
+                             -----
+
+                            Contacto:
+                            	 	Leidy Paola Gonzalez
+                             -----
+
+                            Telefono
+                            	 	8897462
+                             -----
+
+                            Parentesco
+                            	 	Hermana
+                             -----
+	-------------------------------------------------------------
+
+	 	 	 	 	 	 	 *** FIN REPORTE, s·bado 27 de septiembre de 2014 ***
+
+        

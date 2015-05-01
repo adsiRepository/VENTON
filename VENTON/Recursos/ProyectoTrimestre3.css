@@ -1,0 +1,849 @@
+
+/*    RECURSOS Y ANIMACIONES     */
+
+/*  EFECTOS GOOGLE CHROME   */
+
+@-webkit-keyframes float_down_to_left_up{
+	0%{
+		bottom: -5%;
+	}
+        50%{
+                bottom: 50%;
+        }
+	100%{
+		top:-3%;
+	}
+}
+
+@-webkit-keyframes long{
+	0%{
+		width: 150px;
+	}
+	100%{
+		width:390px;
+	}
+}
+
+@-webkit-keyframes opacity{
+	0%{
+		opacity:0.0;
+	}
+	50%{
+		opacity:0.5;
+	}
+	100%{
+		opacity:1.0;
+	}
+}
+
+@-webkit-keyframes rotate{
+    0%{
+        -webkit-transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@-webkit-keyframes rotateY{
+    0%{
+        -webkit-transform: rotateX(0deg);
+    }
+    100%{
+        -webkit-transform: rotateX(360deg);
+    }
+}
+
+@-webkit-keyframes rotate_back{
+    0%{
+        -webkit-transform: rotate(0deg);
+    }
+    100%{
+        -webkit-transform: rotate(-360deg);
+    }
+}
+/*---------------------*/
+/*  EFECTOS MOZILLA */
+@-moz-keyframes long{
+	0%{
+		width: 150px;
+	}
+	100%{
+		width:430px;
+	}
+}
+
+@-moz-keyframes opacity{
+	0%{
+		opacity:0.0;
+	}
+	50%{
+		opacity:0.5;
+	}
+	100%{
+		opacity:1.0;
+	}
+}
+
+@-moz-keyframes rotate{
+    0%{
+        -moz-transform: rotate(0deg);
+    }
+    100%{
+        -moz-transform: rotate(360deg);
+    }
+}
+
+@-moz-keyframes rotate_back{
+    0%{
+        -moz-transform: rotate(0deg);
+    }
+    100%{
+        -moz-transform: rotate(-360deg);
+    }
+}
+/*----------------------------------*/
+/*INTERNET EXPLORER */
+@-ms-keyframes long{
+	0%{
+		width: 150px;
+	}
+	100%{
+		width:430px;
+	}
+}
+
+@-ms-keyframes opacity{
+	0%{
+		opacity:0.0;
+	}
+	50%{
+		opacity:0.5;
+	}
+	100%{
+		opacity:1.0;
+	}
+}
+
+@-ms-keyframes rotate{
+    0%{
+        -ms-transform: rotate(0deg);
+    }
+    100%{
+        -ms-transform: rotate(360deg);
+    }
+}
+
+@-ms-keyframes rotate_back{
+    0%{
+        -ms-transform: rotate(0deg);
+    }
+    100%{
+        -ms-transform: rotate(-360deg);
+    }
+}
+/*------------------------------------------*/
+
+/*FUENTES UTILIZADAS EN EL ARCHIVO  */
+
+@font-face{
+    font-family: MAIAN;             /*copio la fuente en mi carpeta de recursos*/
+    src: url("../Imagenes/MAIAN.ttf");   /*la llamo en un src*/
+}
+                                    /*por lo general la extension es .ttf*/
+@font-face{
+    font-family: AlphaWood;
+    src: url("../Imagenes/AlphaWood.ttf");
+}
+
+
+/* ------------------------------------------*/
+
+
+/*     MENU SUPERIOR*/
+/*  CONFIGURACION GENERAL   */
+*{
+	padding: 0px;
+	margin: 0px;
+}
+html, body{
+	width:100%;
+	height:100%;
+	/*border: 1px dashed black;*/
+        background-color: black;
+	/*background-image: url(fondo1.jpg);
+        background-repeat: no-repeat;
+        background-size: 100%;*/
+}
+/*-------------------------*/
+/*.campoin{
+    float: right;
+}*/
+
+/*  ROTULO  */
+#titulo{
+    position: absolute;
+    top: 3%;
+    left: 10%;
+    /*background-color:#F69E19;*/
+    z-index: 3;
+    width: 30%;
+    height: 13%;
+    border-radius: 3px;
+    text-align: center;
+    font-size:120%;
+    vertical-align:central;
+    box-shadow: 0px 3px 8px 8px #228DDF, 0px 0px 18px 6px black inset;  /*desplamiento x, desplazamiento y, difuminacion, tamaño, color */
+    /*background-image: url("Imagenes/logo_venton.png");D3752D*/
+}
+#titulo img{
+    width:65%;
+}
+
+
+@-webkit-keyframes flytoright{
+    0%{
+        left: -10%;
+        width: 220px;
+    }
+    10%{
+        left: 10%;
+        width: 180px;
+        
+    }
+    20%{
+        left: 20%;
+        width: 160px;
+    }
+    30%{
+        left: 30%;
+        width: 140px;
+    }
+    40%{
+        left: 40%;
+        width: 120px;
+    }
+    50%{
+        left: 50%;
+        width: 100px;
+    }
+    60%{
+        left: 60%;
+        width: 80px;
+    }
+    70%{
+        left: 70%;
+        width: 60px;
+    }
+    80%{
+        left: 80%;
+        width: 40px;
+    }
+    90%{
+        left: 90%;
+        width: 20px;
+    }
+    100%{
+        left: 110%;
+        width: -20px;
+        /*-webkit-transform: rotate(-360deg);*/
+    }
+}
+
+@-webkit-keyframes desliz{
+    0%{
+        right: -5%;
+        
+    }
+    25%{
+        left: 75%;
+        width: 75px;
+    }
+    50%{
+        left: 50%;
+        width: 50px;
+        border-radius: 10px;
+    }
+    75%{
+        left: 21%;
+        width: 25px;
+        border-radius: 30px;
+    }
+    80%{
+        left: 28%;
+        border-radius: 50px;
+    }
+    85%{
+        width: 30px;
+        height: 30px;
+        left: 15%;
+        border-radius: 70px;
+    }
+    95%{
+        width: 40px;
+        height: 40px;
+        left: 10%;
+        border-radius: 90px;
+    }
+    100%{
+        width: 50px;
+        height: 40px;
+        left: -10%;
+        border-radius: 100px;
+    }
+}
+
+@-webkit-keyframes ud{
+    0%{
+        top: 70%;
+    }
+    25%{
+        top: 60%;
+    }
+    50%{
+        top: 40%;
+    }
+    75%{
+        top: 50%;
+    }
+    90%{
+        top: 60%;
+    }
+    100%{
+        top:70%;
+    }
+}
+
+@-webkit-keyframes ud2{
+    
+    0%{
+        top: 40%;
+    }
+    25%{
+        top: 55%;
+    }
+    50%{
+        top: 70%;
+    }
+    75%{
+        top: 55%;
+    }
+    100%{
+        top:40%;
+    }
+    
+}
+
+
+.line{
+   background-color: black;
+   height: 10px;
+   width: 200px;
+   position:absolute;
+}
+
+#a{
+    top: 10%;
+    -webkit-animation: flytoright 3s infinite linear;
+    //-webkit-animation-fill-mode:forwards;
+    //rotate 25s infinite linear;
+}
+#b{
+    top: 50%;
+    width: 25px;
+    height: 100px;
+    left: 40%;
+    -webkit-animation: ud 1s infinite linear;
+    -webkit-animation-fill-mode: both;
+    animation-direction:alternate;
+}
+#c{
+    top: 75%;
+    width: 25px;
+    height: 100px;
+    left: 50%;
+    -webkit-animation: ud2 1s infinite linear;
+    -webkit-animation-fill-mode: both;
+    animation-direction: alternate;
+}
+#d{
+   height: 10px;
+   width: 100px;
+   background-color: black;
+   position: absolute;
+   left: 60%;
+   top: 50%;
+   -webkit-animation: desliz 6s infinite ease-in;
+}
+
+
+
+
+/*#titulo h1{
+    text-shadow: -3px 3px 2px #B6BBBD, -1px -1px 1px #333;
+    font-family: AlphaWood;
+    font-weight:900;
+    color: #255F10;/*#F69E19
+}
+
+#titulo span{
+    font-size: 130%;
+}*/
+/*----------------------------*/
+
+#program{
+	position: relative;
+	top: 40px;
+	margin:auto;
+	width:95%;
+	height:96%;
+	background-color:graytext;
+        /*opacity: 0.3;*/
+        font-family: sans-serif, monospace, Garamond;
+        font-size: 90%;
+}
+
+
+/***********************              CSS DEL MENU                        ***************************************************************************/
+
+#menu{
+	margin:auto;
+	width: 700px;
+	display: block;
+	position: relative;
+	z-index:5;
+        float: right;
+        right:-20%;
+        top: -3px;
+}
+
+.nav {
+	background-color:blanchedalmond;
+	margin: auto;
+}
+
+ul{
+	list-style:none;
+}
+
+.nav li a{
+	background-color: #C3C1CE;/*#*/
+	color:#39371D;
+        font-weight: bold;
+        font-size:larger;
+        padding-left: 3px; 
+	padding:5px;
+	display: block;
+	text-decoration: none;
+	font-family: Bookman Old Style, sans-serif;
+        font-size: 98%;
+}
+
+.nav li a:hover{
+	background-color: #88A3B1;
+}
+
+.nav > li {
+	float:left;
+	min-width: 140px;
+        max-width: 160px;
+}
+
+
+.nav li ul{
+	display:none;
+	position: absolute;
+	min-width: 140px;
+	max-width: 140px;
+}
+
+.nav li:hover > ul{
+	display: block;
+}
+
+.nav li ul li{
+	position:relative;
+}
+
+.nav li ul li ul{
+	right:-100%;
+	top:0px;
+        background-color: #88A3B1;
+}
+
+/*######################################################################################*/
+
+
+/*-------------------------*/
+
+
+
+/*                  BARRA ADMINISTRADOR                     */
+
+
+#admin {
+	position:absolute;
+	background-color:#4AF72B;	
+	float:right;
+	min-width: 150px;
+        max-width: 700px;
+	height:30px;
+	right:80px;					
+	font-family:cursive;
+	display:inline-block;
+	top: 7%;
+        padding-top: 4px;
+        z-index: 2;
+        border-radius: 4px;
+	/*-webkit-transition: with 6s;*/
+}
+
+#admin:hover{
+	/*width:300px;*/
+	-webkit-animation: long .1s linear;
+	-webkit-animation-fill-mode:forwards;
+        -moz-animation: long .1s linear;
+	-moz-animation-fill-mode:forwards;
+        -ms-animation: long .1s linear;
+	-ms-animation-fill-mode:forwards;
+}
+#admin:hover > #pass{
+	display:inline-block;
+	right: 4px;
+	opacity: 1.0;
+	-webkit-animation: opacity .7s linear;
+        -moz-animation: opacity .7s linear;
+        -ms-animation: opacity .7s linear;
+}
+
+#pass{
+	display:inline-block;
+	opacity: 0.0;
+	position:absolute;
+	float:right;
+}
+
+
+#admin p{
+	margin:auto;
+	position:absolute;
+	padding-left:16px;
+	cursor:pointer;
+}
+#mainkey{
+	width:25px;
+	height:20px;
+	margin:auto;
+}
+#mainpass{
+	width:100px;
+	padding-left:3px;
+	margin-right:-3px;
+}
+#mainuser{
+    width: 100px;
+}
+
+#ingreso_gerente{
+    padding: 2px;
+    margin: 0;
+    width: 50px;
+        
+}
+
+/*---------------------------------------------------------------------------------*/
+
+				
+/*            			CONSOLA DE BOTONES 				     */	
+
+
+
+/*BARRA DE COMANDOS LATERAL*/
+
+#accessdirect{
+    width: 100px;
+    float: left;
+    height: 89%;
+    background-color:#DF7220;/*C42222,792828*/
+    position: absolute;
+    bottom: -2%;
+    box-shadow: 0px 0px 44px 25px #000000 inset;/*desplamiento x, desplazamiento y, difuminacion, tamaño, color */
+    border: 9px ridge brown;
+    border-radius: 8px;
+}
+
+.access{
+    width: 100px;
+    height: 100px;
+    -webkit-animation: rotate 25s infinite linear;
+    -moz-animation: rotate 25s infinite linear;
+    -ms-animation: rotate 25s infinite linear;
+    cursor: pointer;
+    position: relative;
+    margin-top: 50%;
+}
+
+#divergente{
+    -webkit-animation: rotate_back 23s infinite linear;
+    -moz-animation: rotate_back 23s infinite linear;
+    -ms-animation: rotate_back 23s infinite linear;
+}
+
+
+
+/* ------------------------------------------------------------------------------*/
+					
+
+
+
+/*                          FORMULARIO CENTRAL              */
+
+
+
+.list{
+    width: 200px;
+    max-height: 300px;                
+}
+
+input{
+    border-radius:8px;
+}
+input:focus{
+    //box-shadow: 0px 0px 5px 4px #C3C1CE inset;
+    outline:none;
+}
+
+
+.boton{
+    padding: 5px;
+    /*background-color:#F73E3E;*/
+    /*border-radius: 4px;*/
+    //width: 90px;
+    min-width: 90px;
+    max-width: 180px;
+    height: 4%;
+    background-color:#55A9D0;
+    border-radius: 10px;
+    
+}
+
+.output{
+    background-color: white;
+    width: 40%;
+    height: 17px;
+    display: inline-block;
+    border: 1px solid snow;
+    padding: 0 3px 0 3px;
+    text-align: right;
+    margin:auto;
+}
+
+textarea{
+    resize:none;
+}
+
+form table table table th{
+    text-align: center;
+}
+
+/*#tabla_cobros td{
+    border: 1px solid mediumaquamarine;
+    width: 50%;
+    height: 19px;
+    text-align: end;
+}*/
+
+#tabla_cobros{
+    width: 100%;
+}
+
+.tdcobro{
+    border: 1px solid mediumaquamarine;
+    width: 50%;
+    height: 19px;
+    text-align: end;
+}
+
+
+span .tab{
+    padding-right: 10px;
+}
+
+
+#form{
+    position:relative;
+    margin:auto;
+    top:13%;
+    left: 6%;
+    min-width:87%;
+    max-width:87%;
+    max-height:130%;
+    min-height:87%;
+    border: 5px white;
+    border-radius: 7px;
+    background-color:aliceblue; 
+    padding: 0;
+}
+
+#form form{
+    /*max-height: 105%;
+    max-width: 99%;
+    min-height: 97%;
+    min-width: 99%;*/
+    margin: 0;
+    padding: 0;
+}
+
+#form form table{
+    max-height: 100%;
+    max-width: 99%;
+    min-height: 98%;
+    min-width: 96%;
+    border: 1px solid #F69E19;
+    margin: auto;
+    position: relative;
+    padding: 3px;
+    border-spacing: 5px;
+    border-radius: 4px;
+    
+}
+
+#form form table td{
+    border: 1px solid greenyellow;
+    padding: 2px;
+    border-radius: 10px;
+}
+
+
+caption{
+    text-align:right;
+    background-color:#36ACD7; /* COLOR DE LA BARRA DE TITULO DE TABLA*/
+    padding: 2px 7% 2px 7%;
+    color: #000000;
+    font-weight:bold;
+    font-family:monospace; 
+    font-size: 120%;
+    
+}
+
+.tdleft{
+    width: 35%;
+    text-align: end;
+}
+.tdright{
+    width: 65%;
+}
+
+.num{
+    max-width:10%;
+    min-width: 10%;
+    height: 17px;
+    /*border: 1px solid snow;*/
+    padding: 0 3px 0 3px;
+    text-align: right;
+    background-color: snow;
+}
+
+.text{
+    min-width: 30px;
+}
+
+
+.numh{
+    width: 10%; 
+}
+
+label{
+    //max-width: 80px;
+    background-color:#92D8F6;
+    /*border: 1px solid captiontext;*/
+    border-radius: 2px;
+    /*margin-right: 2%;*/
+    font-family: sans-serif;
+    font-size: 90%;
+    padding: 2px;
+    border-radius:2px;
+    
+}
+
+.labelright{
+    text-align: end;
+}
+
+#contact table{
+    margin:0;
+    padding: 0;
+    width: 100%;
+    height: 90%;
+    border: 0;
+    
+}
+
+#contact input{
+    width: 98%;
+    /*float: right;*/
+}
+
+#detcliente{
+    width: 100%;
+    height: 70px;
+    border: 2px solid darkgreen;
+    margin: auto;
+    
+}
+
+/*------------------------------------------------------------------------------*/
+
+
+
+/* TABLA SURTIDO: ARTICULOS INCLUIDOS EN LA VENTA*/
+
+#tabla_surtido{
+    margin: 0;
+    padding: 0;
+    display: block;
+    position: relative;
+    width: 120%;
+    height: 60px;
+    border: 0;
+}
+#tabla_surtido th{
+    background-color:#C3C1CE;
+    height: 30px;
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    border-collapse: collapse;
+}
+#tabla_surtido td{
+    text-align: end;
+}
+.numeral{
+    width: 10%;
+}
+.texto{
+    width: 120px;
+}
+
+/*#form table table{
+    border: 0;
+}*/
+
+
+
+/* ---------------------------------- */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*----------------------------http://codepen.io/anon/pen/FnsKi?editors=010---------------------------------------------------*/
+

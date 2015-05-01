@@ -1,0 +1,288 @@
+
+	 	 	 	 	 	 	 VENTON 
+	 	 	 	 	 	 Tu Tienda Digital
+
+	 	 	 Santiago de Cali, sábado 04 de octubre de 2014
+
+
+
+                            Consecutivo de Venta:
+                            	 	1
+                             -----
+
+                            Fecha Venta:
+                            	 	2014-09-25
+                             -----
+
+                            Vendedor(a):
+                            	 	Rosa
+                             -----
+
+                            Cliente:
+                            	 	VENTA PART
+                             -----
+
+                            Nombre
+                            	 	Miguel Eduardo Gonzalez
+                             -----
+
+                            Ident.:
+                            	 	1107057722
+                             -----
+
+                            Direccion:
+                            	 	Clle 34 24a02
+                             -----
+
+                            Telefono:
+                            	 	4382528
+                             -----
+
+                            Modo de Pago:
+                            	 	Contado
+                             -----
+
+                            Plazo:
+                            	 	
+                             -----
+
+                            Pago
+                            	 	semanal
+                             -----
+
+                            Lista Compra:
+                            	 	Cod. Producto: 221, Cant: 5, -Total: $3500 / Cod. Producto: 654, Cant: 3, -Total: $1200 / Cod. Producto: 345, Cant: 1, -Total: $5600
+                             -----
+
+                            Total Venta
+                            	 	10300
+                             -----
+	-------------------------------------------------------------
+
+
+                            Consecutivo de Venta:
+                            	 	2
+                             -----
+
+                            Fecha Venta:
+                            	 	2014-09-25
+                             -----
+
+                            Vendedor(a):
+                            	 	Miguel
+                             -----
+
+                            Cliente:
+                            	 	VENTA PART
+                             -----
+
+                            Nombre
+                            	 	Humberto
+                             -----
+
+                            Ident.:
+                            	 	88888888
+                             -----
+
+                            Direccion:
+                            	 	77077777070
+                             -----
+
+                            Telefono:
+                            	 	88888888
+                             -----
+
+                            Modo de Pago:
+                            	 	Credito
+                             -----
+
+                            Plazo:
+                            	 	2014-11-30
+                             -----
+
+                            Pago
+                            	 	semanal
+                             -----
+
+                            Lista Compra:
+                            	 	Cod: 221 - Cant: 16 - Total: $11200 
+ / Cod: 654 - Cant: 7 - Total: $2800 
+ / Cod: 667 - Cant: 2 - Total: $11000 
+ / Cod: 664 - Cant: 20 - Total: $24000 
+
+                             -----
+
+                            Total Venta
+                            	 	49000
+                             -----
+	-------------------------------------------------------------
+
+
+                            Consecutivo de Venta:
+                            	 	3
+                             -----
+
+                            Fecha Venta:
+                            	 	0000-00-00
+                             -----
+
+                            Vendedor(a):
+                            	 	Miguel Gonzalez
+                             -----
+
+                            Cliente:
+                            	 	VENTA PART
+                             -----
+
+                            Nombre
+                            	 	wdwdwdfw
+                             -----
+
+                            Ident.:
+                            	 	2323242
+                             -----
+
+                            Direccion:
+                            	 	232323
+                             -----
+
+                            Telefono:
+                            	 	232323
+                             -----
+
+                            Modo de Pago:
+                            	 	Credito
+                             -----
+
+                            Plazo:
+                            	 	2014-09-11
+                             -----
+
+                            Pago
+                            	 	semanal
+                             -----
+
+                            Lista Compra:
+                            	 	Cod: 221 Desc: manteca x lb - Cant: 4 - Total: $2800 
+ / Cod: 654 Desc: papa x kg - Cant: 3 - Total: $1200 
+
+                             -----
+
+                            Total Venta
+                            	 	4000
+                             -----
+	-------------------------------------------------------------
+
+
+                            Consecutivo de Venta:
+                            	 	4
+                             -----
+
+                            Fecha Venta:
+                            	 	04/oct/2014
+                             -----
+
+                            Vendedor(a):
+                            	 	Diana
+                             -----
+
+                            Cliente:
+                            	 	VENTA PART
+                             -----
+
+                            Nombre
+                            	 	fabian
+                             -----
+
+                            Ident.:
+                            	 	345
+                             -----
+
+                            Direccion:
+                            	 	carrera12calle5
+                             -----
+
+                            Telefono:
+                            	 	12121212
+                             -----
+
+                            Modo de Pago:
+                            	 	Contado
+                             -----
+
+                            Plazo:
+                            	 	2014-10-02
+                             -----
+
+                            Pago
+                            	 	quincena
+                             -----
+
+                            Lista Compra:
+                            	 	Cod:  Desc: manteca x lb - Cant: 2 - Total: $1000 
+
+                             -----
+
+                            Total Venta
+                            	 	1000
+                             -----
+	-------------------------------------------------------------
+
+
+                            Consecutivo de Venta:
+                            	 	5
+                             -----
+
+                            Fecha Venta:
+                            	 	04/oct/2014
+                             -----
+
+                            Vendedor(a):
+                            	 	Tu Usuario Aqui
+                             -----
+
+                            Cliente:
+                            	 	7
+                             -----
+
+                            Nombre
+                            	 	rwewe
+                             -----
+
+                            Ident.:
+                            	 	2098
+                             -----
+
+                            Direccion:
+                            	 	wefrdwfwef
+                             -----
+
+                            Telefono:
+                            	 	 / 42343434
+                             -----
+
+                            Modo de Pago:
+                            	 	Contado
+                             -----
+
+                            Plazo:
+                            	 	2014-10-06
+                             -----
+
+                            Pago
+                            	 	semanal
+                             -----
+
+                            Lista Compra:
+                            	 	Cod: 667 Desc:  - Cant: 7 - Total: $ 
+
+                             -----
+
+                            Total Venta
+                            	 	0
+                             -----
+	-------------------------------------------------------------
+
+	 	 	 	 	 	 	 *** FIN REPORTE, sábado 04 de octubre de 2014 ***
+
+        

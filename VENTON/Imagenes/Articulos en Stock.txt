@@ -1,0 +1,218 @@
+
+	 	 	 	 	 	 	 VENTON 
+	 	 	 	 	 	 Tu Tienda Digital
+
+	 	 	 Santiago de Cali, sábado 04 de octubre de 2014
+
+
+
+                            Codigo:
+                            	 	221
+                             -----
+
+                            Descripcion:
+                            	 	manteca x lb
+                             -----
+
+                            Cantidad:
+                            	 	600
+                             -----
+
+                            Costo Compra:
+                            	 	465
+                             -----
+
+                            Preventa:
+                            	 	700
+                             -----
+
+                            Proveedor:
+                            	 	8000
+                             -----
+	-------------------------------------------------------------
+
+
+                            Codigo:
+                            	 	654
+                             -----
+
+                            Descripcion:
+                            	 	papa x kg
+                             -----
+
+                            Cantidad:
+                            	 	400
+                             -----
+
+                            Costo Compra:
+                            	 	200
+                             -----
+
+                            Preventa:
+                            	 	400
+                             -----
+
+                            Proveedor:
+                            	 	5443
+                             -----
+	-------------------------------------------------------------
+
+
+                            Codigo:
+                            	 	667
+                             -----
+
+                            Descripcion:
+                            	 	Shampoo--Isabel x 600ml
+                             -----
+
+                            Cantidad:
+                            	 	43
+                             -----
+
+                            Costo Compra:
+                            	 	3562
+                             -----
+
+                            Preventa:
+                            	 	5500
+                             -----
+
+                            Proveedor:
+                            	 	0
+                             -----
+	-------------------------------------------------------------
+
+
+                            Codigo:
+                            	 	345
+                             -----
+
+                            Descripcion:
+                            	 	Aceite--Girasol x lt
+                             -----
+
+                            Cantidad:
+                            	 	43
+                             -----
+
+                            Costo Compra:
+                            	 	4200
+                             -----
+
+                            Preventa:
+                            	 	5600
+                             -----
+
+                            Proveedor:
+                            	 	180600
+                             -----
+	-------------------------------------------------------------
+
+
+                            Codigo:
+                            	 	664
+                             -----
+
+                            Descripcion:
+                            	 	Arroz--Roa x lb
+                             -----
+
+                            Cantidad:
+                            	 	150
+                             -----
+
+                            Costo Compra:
+                            	 	756
+                             -----
+
+                            Preventa:
+                            	 	1200
+                             -----
+
+                            Proveedor:
+                            	 	113400
+                             -----
+	-------------------------------------------------------------
+
+
+                            Codigo:
+                            	 	353
+                             -----
+
+                            Descripcion:
+                            	 	Bombonbum
+                             -----
+
+                            Cantidad:
+                            	 	700
+                             -----
+
+                            Costo Compra:
+                            	 	150
+                             -----
+
+                            Preventa:
+                            	 	0
+                             -----
+
+                            Proveedor:
+                            	 	57
+                             -----
+	-------------------------------------------------------------
+
+
+                            Codigo:
+                            	 	232
+                             -----
+
+                            Descripcion:
+                            	 	vffity
+                             -----
+
+                            Cantidad:
+                            	 	78
+                             -----
+
+                            Costo Compra:
+                            	 	5667
+                             -----
+
+                            Preventa:
+                            	 	0
+                             -----
+
+                            Proveedor:
+                            	 	57
+                             -----
+	-------------------------------------------------------------
+
+
+                            Codigo:
+                            	 	12345
+                             -----
+
+                            Descripcion:
+                            	 	Shampoo Capibelle
+                             -----
+
+                            Cantidad:
+                            	 	12
+                             -----
+
+                            Costo Compra:
+                            	 	1000
+                             -----
+
+                            Preventa:
+                            	 	12500
+                             -----
+
+                            Proveedor:
+                            	 	123456789
+                             -----
+	-------------------------------------------------------------
+
+	 	 	 	 	 	 	 *** FIN REPORTE, sábado 04 de octubre de 2014 ***
+
+        

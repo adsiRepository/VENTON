@@ -1,0 +1,550 @@
+
+	 	 	 	 	 	 	 VENTON 
+	 	 	 	 	 	 Tu Tienda Digital
+
+	 	 	 Santiago de Cali, s·bado 04 de octubre de 2014
+
+
+
+                            Codigo:
+                            	 	1
+                             -----
+
+                            Fecha de Vinculacion:
+                            	 	2014-09-20
+                             -----
+
+                            Nombre:
+                            	 	Miguel Gonzalez
+                             -----
+
+                            Cedula:
+                            	 	1107057722
+                             -----
+
+                            Direccion
+                            	 	Calle 6 34-40
+                             -----
+
+                            Ciudad:
+                            	 	Cali
+                             -----
+
+                            Telefono:
+                            	 	2147483647
+                             -----
+
+                            Email:
+                            	 	miguelon_91@misena.e
+                             -----
+
+                            Genero:
+                            	 	M
+                             -----
+
+                            Observaciones:
+                            	 	Estudiante Sena
+                             -----
+
+                            Tipo de Contrato:
+                            	 	fijo
+                             -----
+
+                            Clave de Ingreso
+                            	 	1234
+                             -----
+
+                            Cargo:
+                            	 	administrador
+                             -----
+	----------------------------------------------------------
+
+
+                            Codigo:
+                            	 	2
+                             -----
+
+                            Fecha de Vinculacion:
+                            	 	2014-09-16
+                             -----
+
+                            Nombre:
+                            	 	Christian David Lope
+                             -----
+
+                            Cedula:
+                            	 	1143927200
+                             -----
+
+                            Direccion
+                            	 	Calle 57 N12a-18
+                             -----
+
+                            Ciudad:
+                            	 	Cali - Valle
+                             -----
+
+                            Telefono:
+                            	 	2147483647
+                             -----
+
+                            Email:
+                            	 	corpse1989@hotmail.c
+                             -----
+
+                            Genero:
+                            	 	M
+                             -----
+
+                            Observaciones:
+                            	 	Propietario de vento
+                             -----
+
+                            Tipo de Contrato:
+                            	 	indefinido
+                             -----
+
+                            Clave de Ingreso
+                            	 	corpsegrinder
+                             -----
+
+                            Cargo:
+                            	 	administrador
+                             -----
+	----------------------------------------------------------
+
+
+                            Codigo:
+                            	 	3
+                             -----
+
+                            Fecha de Vinculacion:
+                            	 	2014-09-16
+                             -----
+
+                            Nombre:
+                            	 	Oscar Eduardo Lopez
+                             -----
+
+                            Cedula:
+                            	 	1143927300
+                             -----
+
+                            Direccion
+                            	 	cra 78 - 90
+                             -----
+
+                            Ciudad:
+                            	 	Bogota
+                             -----
+
+                            Telefono:
+                            	 	2147483647
+                             -----
+
+                            Email:
+                            	 	oso@hotmail.com
+                             -----
+
+                            Genero:
+                            	 	M
+                             -----
+
+                            Observaciones:
+                            	 	Ninguna
+                             -----
+
+                            Tipo de Contrato:
+                            	 	a prueba
+                             -----
+
+                            Clave de Ingreso
+                            	 	12345
+                             -----
+
+                            Cargo:
+                            	 	Empleado
+                             -----
+	----------------------------------------------------------
+
+
+                            Codigo:
+                            	 	4
+                             -----
+
+                            Fecha de Vinculacion:
+                            	 	2014-09-16
+                             -----
+
+                            Nombre:
+                            	 	Katherine Morales
+                             -----
+
+                            Cedula:
+                            	 	1144135151
+                             -----
+
+                            Direccion
+                            	 	transversal 123
+                             -----
+
+                            Ciudad:
+                            	 	Cali - Valle
+                             -----
+
+                            Telefono:
+                            	 	2147483647
+                             -----
+
+                            Email:
+                            	 	ktmf16@hotmail.com
+                             -----
+
+                            Genero:
+                            	 	F
+                             -----
+
+                            Observaciones:
+                            	 	
+                             -----
+
+                            Tipo de Contrato:
+                            	 	indefinido
+                             -----
+
+                            Clave de Ingreso
+                            	 	KATHERINE
+                             -----
+
+                            Cargo:
+                            	 	Empleado
+                             -----
+	----------------------------------------------------------
+
+
+                            Codigo:
+                            	 	5
+                             -----
+
+                            Fecha de Vinculacion:
+                            	 	2014-09-24
+                             -----
+
+                            Nombre:
+                            	 	Jose Antonio Arango
+                             -----
+
+                            Cedula:
+                            	 	14620894
+                             -----
+
+                            Direccion
+                            	 	SENA Breta√±a
+                             -----
+
+                            Ciudad:
+                            	 	Cali
+                             -----
+
+                            Telefono:
+                            	 	7755321
+                             -----
+
+                            Email:
+                            	 	joarhu@misena.edu.co
+                             -----
+
+                            Genero:
+                            	 	M
+                             -----
+
+                            Observaciones:
+                            	 	Dise√±ador Grafico
+                             -----
+
+                            Tipo de Contrato:
+                            	 	Indefinido
+                             -----
+
+                            Clave de Ingreso
+                            	 	14620894
+                             -----
+
+                            Cargo:
+                            	 	administrador
+                             -----
+	----------------------------------------------------------
+
+
+                            Codigo:
+                            	 	6
+                             -----
+
+                            Fecha de Vinculacion:
+                            	 	2014-09-25
+                             -----
+
+                            Nombre:
+                            	 	Alexander Quembauer
+                             -----
+
+                            Cedula:
+                            	 	16928072
+                             -----
+
+                            Direccion
+                            	 	Cra 1000 65-18
+                             -----
+
+                            Ciudad:
+                            	 	Cali
+                             -----
+
+                            Telefono:
+                            	 	  4444444
+                             -----
+
+                            Email:
+                            	 	elkaiser@hotmail.com
+                             -----
+
+                            Genero:
+                            	 	M
+                             -----
+
+                            Observaciones:
+                            	 	Desarrollador Senior
+                             -----
+
+                            Tipo de Contrato:
+                            	 	Indefinido
+                             -----
+
+                            Clave de Ingreso
+                            	 	16928072
+                             -----
+
+                            Cargo:
+                            	 	administrador
+                             -----
+	----------------------------------------------------------
+
+
+                            Codigo:
+                            	 	7
+                             -----
+
+                            Fecha de Vinculacion:
+                            	 	2014-09-18
+                             -----
+
+                            Nombre:
+                            	 	Aura Patricia Manqui
+                             -----
+
+                            Cedula:
+                            	 	66856109
+                             -----
+
+                            Direccion
+                            	 	cra 9988
+                             -----
+
+                            Ciudad:
+                            	 	Liverpool
+                             -----
+
+                            Telefono:
+                            	 	2147483647
+                             -----
+
+                            Email:
+                            	 	pato@misena
+                             -----
+
+                            Genero:
+                            	 	F
+                             -----
+
+                            Observaciones:
+                            	 	empleada del mes
+                             -----
+
+                            Tipo de Contrato:
+                            	 	indefinido
+                             -----
+
+                            Clave de Ingreso
+                            	 	pato
+                             -----
+
+                            Cargo:
+                            	 	vendedor
+                             -----
+	----------------------------------------------------------
+
+
+                            Codigo:
+                            	 	8
+                             -----
+
+                            Fecha de Vinculacion:
+                            	 	2014-09-24
+                             -----
+
+                            Nombre:
+                            	 	Angie Daniela Pabon
+                             -----
+
+                            Cedula:
+                            	 	1107099088
+                             -----
+
+                            Direccion
+                            	 	av siempre viva 12-78
+                             -----
+
+                            Ciudad:
+                            	 	Cali
+                             -----
+
+                            Telefono:
+                            	 	5567439
+                             -----
+
+                            Email:
+                            	 	angiepab@hotmail.com
+                             -----
+
+                            Genero:
+                            	 	F
+                             -----
+
+                            Observaciones:
+                            	 	La Chiky
+                             -----
+
+                            Tipo de Contrato:
+                            	 	Indefinido
+                             -----
+
+                            Clave de Ingreso
+                            	 	1107099088
+                             -----
+
+                            Cargo:
+                            	 	administrador
+                             -----
+	----------------------------------------------------------
+
+
+                            Codigo:
+                            	 	9
+                             -----
+
+                            Fecha de Vinculacion:
+                            	 	2014-10-04
+                             -----
+
+                            Nombre:
+                            	 	Juan Salgado
+                             -----
+
+                            Cedula:
+                            	 	7777777
+                             -----
+
+                            Direccion
+                            	 	El Puente
+                             -----
+
+                            Ciudad:
+                            	 	medellin
+                             -----
+
+                            Telefono:
+                            	 	  6666666
+                             -----
+
+                            Email:
+                            	 	yfwyf@gfyer.fwrf
+                             -----
+
+                            Genero:
+                            	 	Maculino
+                             -----
+
+                            Observaciones:
+                            	 	ksdfbvusvguouv
+                             -----
+
+                            Tipo de Contrato:
+                            	 	Indefinido
+                             -----
+
+                            Clave de Ingreso
+                            	 	12345
+                             -----
+
+                            Cargo:
+                            	 	administrador
+                             -----
+	----------------------------------------------------------
+
+
+                            Codigo:
+                            	 	10
+                             -----
+
+                            Fecha de Vinculacion:
+                            	 	2014-10-04
+                             -----
+
+                            Nombre:
+                            	 	Diana
+                             -----
+
+                            Cedula:
+                            	 	1143929038
+                             -----
+
+                            Direccion
+                            	 	SENA
+                             -----
+
+                            Ciudad:
+                            	 	Cali
+                             -----
+
+                            Telefono:
+                            	 	  333322
+                             -----
+
+                            Email:
+                            	 	hfxajcau@hwjyd.jmwyd
+                             -----
+
+                            Genero:
+                            	 	Femenino
+                             -----
+
+                            Observaciones:
+                            	 	Desarrolladora
+                             -----
+
+                            Tipo de Contrato:
+                            	 	Indefinido
+                             -----
+
+                            Clave de Ingreso
+                            	 	1143929038
+                             -----
+
+                            Cargo:
+                            	 	administrador
+                             -----
+	----------------------------------------------------------
+
+	 	 	 	 	 	 	 *** FIN REPORTE, s·bado 04 de octubre de 2014 ***
+
+        
